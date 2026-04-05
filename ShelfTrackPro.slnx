@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ShelfTrackPro.API/ShelfTrackPro.API.csproj" />
+    <Project Path="src/ShelfTrackPro.Application/ShelfTrackPro.Application.csproj" />
+    <Project Path="src/ShelfTrackPro.Domain/ShelfTrackPro.Domain.csproj" />
+    <Project Path="src/ShelfTrackPro.Infrastructure/ShelfTrackPro.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ShelfTrackPro.IntegrationTests/ShelfTrackPro.IntegrationTests.csproj" />
+    <Project Path="tests/ShelfTrackPro.UnitTests/ShelfTrackPro.UnitTests.csproj" />
+  </Folder>
+</Solution>
